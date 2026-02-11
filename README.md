@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m currently working on Full Stack web applications using MERN Stack & React AI-powered projects IoT & embedded systems using Arduino and ESP32<br><br>👯 I’m looking to collaborate on Full Stack (MERN) projects React-based frontend applications AI + Web or IoT + Web integration projects<br><br>🤝 I’m looking for help with Advanced backend architecture & scalability AI/ML integration in real-world applications<br><br>System design best practices <br><br>🌱 I’m currently learning Advanced React & backend optimization AI & ML concepts Improving problem-solving with Java & Python<br><br>💬 Ask me about<br><br>React & MERN Stack Full Stack project building Arduino, ESP32, IoT, and AI integration<br><br>⚡ Fun fact I love turning real-world ideas into working products, from hardware to full-stack apps 🚀
+🚀 I’m currently working on Full Stack web applications using MERN Stack & React AI-powered projects IoT & embedded systems using Arduino and ESP32<br><br>👯 I’m looking to collaborate on Full Stack (MERN) projects React-based frontend applications AI + Web or IoT + Web integration projects<br><br>🤝 I’m looking for help with Advanced backend architecture & scalability AI/ML integration in real-world applications<br><br>System design best practices <br><br>🌱 I’m currently learning Advanced React & backend optimization AI & ML concepts Improving problem-solving with Java & Python<br><br>💬 Ask me about<br><br>React & MERN Stack Full Stack project building Arduino, ESP32, IoT, and AI integration<br><br>⚡ I love turning real-world ideas into working products, from hardware to full-stack apps 🚀
 
 
 ## 🌐 Socials:
@@ -15,4 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=karanx11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
