@@ -101,3 +101,7 @@ My focus is on creating **modern, high-performance applications with clean archi
 ---
 
 ⭐ **From [karanx11](https://github.com/karanx11)**
+
+## 🐍 Contribution Snake
+
+![snake animation](https://github.com/karanx11/karanx11/blob/output/github-contribution-grid-snake.svg)
