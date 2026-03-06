@@ -1,8 +1,5 @@
-# <h1 align="center">Hi 👋, I'm Karan Sharma</h1>
-### <h3 align="center">Full Stack Developer | Flutter Developer | IoT Engineer</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Flutter+Mobile+Developer;IoT+Developer+(Arduino+%26+ESP32);Building+AI+Powered+Applications;Turning+Ideas+into+Real+World+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&height=60&lines=Hi+👋+I'm+Karan+Sharma;Full+Stack+Developer+(MERN);Flutter+Mobile+Developer;IoT+Developer+(Arduino+%26+ESP32);Building+AI+Powered+Applications;Turning+Ideas+Into+Real+Products" />
 </p>
 
 ---
@@ -15,7 +12,7 @@ I enjoy building **scalable web applications, mobile apps, and intelligent syste
 
 My focus is on creating **modern, high-performance applications with clean architecture and great user experience**.
 
-⚡ I love turning **real-world ideas into working products** — from hardware prototypes to full-stack applications.
+⚡ I love turning **real-world ideas into working products**, from hardware prototypes to fully deployed full-stack applications.
 
 ---
 
@@ -24,17 +21,7 @@ My focus is on creating **modern, high-performance applications with clean archi
 - Full Stack **MERN applications**
 - **React / Next.js** frontend development
 - **Flutter mobile applications**
-- **AI + Web integrations**
 - **IoT systems using Arduino & ESP32**
-
----
-
-# 🌱 Currently Learning
-
-- Advanced **React performance optimization**
-- **Backend architecture & system design**
-- **AI / ML integration in applications**
-- Improving **DSA & problem solving with Java and Python**
 
 ---
 
@@ -42,9 +29,9 @@ My focus is on creating **modern, high-performance applications with clean archi
 
 - MERN Stack Development  
 - React & Frontend Architecture  
-- Flutter Mobile App Development  
+- Flutter Mobile Development  
 - IoT Systems (Arduino / ESP32)  
-- Building Full Stack Projects  
+- Building real-world full stack applications  
 
 ---
 
@@ -58,25 +45,36 @@ My focus is on creating **modern, high-performance applications with clean archi
 
 # 💻 Tech Stack
 
+### Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Web Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
 
+### Mobile Development
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### IoT & Embedded Systems
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 ![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
 
+### Tools & Deployment
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 
 ---
 
