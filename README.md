@@ -5,6 +5,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Flutter+Mobile+Developer;IoT+Developer+(Arduino+%26+ESP32);Building+AI+Powered+Applications;Turning+Ideas+into+Real+World+Products" />
 </p>
 
+<p align="center">
+🌐 <b>Portfolio:</b>  
+<a href="https://karan-portfolio-x11.netlify.app/" target="_blank">karan-portfolio-x11.netlify.app</a>
+</p>
+
 ---
 
 # 💫 About Me
@@ -39,6 +44,8 @@ My focus is on creating **modern, high-performance applications with clean archi
 ---
 
 # 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel)](https://karan-portfolio-x11.netlify.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karan%20Sharma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karan-s-290241298/)
 
