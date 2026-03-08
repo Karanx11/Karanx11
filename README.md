@@ -43,7 +43,7 @@ My focus is on creating **modern, high-performance applications with clean archi
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Link With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel)](https://karan-portfolio-x11.netlify.app/)
 
