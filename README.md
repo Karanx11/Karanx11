@@ -2,6 +2,10 @@
 ### <h3 align="center">Full Stack Developer | Flutter Developer | IoT Engineer</h3>
 
 <p align="center">
+<i>"With great code comes great responsibility to build technology that matters."</i>
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Flutter+Mobile+Developer;IoT+Developer+(Arduino+%26+ESP32);Building+AI+Powered+Applications;Turning+Ideas+into+Real+World+Products" />
 </p>
 
