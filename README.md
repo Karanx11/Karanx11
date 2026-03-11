@@ -80,11 +80,7 @@ My focus is on creating **modern, high-performance applications with clean archi
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=karanx11&theme=tokyonight&hide_border=true&include_all_commits=true)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=karanx11&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karanx11&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
