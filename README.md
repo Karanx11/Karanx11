@@ -58,23 +58,36 @@
 
 ## 💻 Tech Stack
 
-### 🚀 Languages
-`Java` `JavaScript`
+### 🚀 Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### 🌐 Web Development
-`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
 
-### 📱 Mobile Development
-`Flutter`
+### 🌐 Web Development  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-### ☁️ Backend & BaaS
-`Firebase` `Supabase`
 
-### 🔌 IoT
-`Arduino` `ESP32`
+### 📱 Mobile Development  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 
-### ⚙️ Deployment
-`Vercel` `Netlify`
+
+### ☁️ Backend & BaaS  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+
+### 🔌 IoT  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
+
+
+### ⚙️ Deployment  
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
 
 ---
 
@@ -90,14 +103,6 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanx11&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=karanx11&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
