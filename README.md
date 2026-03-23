@@ -100,14 +100,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karanx11&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## ⚡ Fun Fact
 
 > I build projects that connect **code + hardware + AI** into real-world solutions 🚀
