@@ -100,12 +100,6 @@
 
 ---
 
-## ⚡ Fun Fact
-
-> I build projects that connect **code + hardware + AI** into real-world solutions 🚀
-
----
-
 <p align="center">
 ⭐ From <a href="https://github.com/karanx11">karanx11</a>
 </p>
