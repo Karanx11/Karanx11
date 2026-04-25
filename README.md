@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);Flutter+Mobile+Developer;IoT+Developer+(Arduino+%26+ESP32);Building+AI+Powered+Applications;Turning+Ideas+into+Real+World+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);Flutter+Mobile+Developer;IoT+Developer+(Arduino+%26+ESP32);Turning+Ideas+into+Real+World+Products" />
 </p>
 
 ---
@@ -29,65 +29,70 @@
 
 ## 💫 About Me
 
-- 💻 Full Stack Developer specializing in **MERN Stack**
-- 📱 Flutter Developer building cross-platform apps
-- 🔌 IoT Engineer working with **Arduino & ESP32**
-- 🚀 Passionate about **AI-powered applications**
-- ⚡ Turning real-world ideas into scalable products
+* 💻 Full Stack Developer specializing in **MERN Stack**
+* 📱 Flutter Developer building cross-platform apps
+* 🔌 IoT Engineer working with **Arduino & ESP32**
+* 🐹 Basic knowledge of **Golang (Backend Development)**
+* 🚀 Passionate about **AI-powered applications**
+* ⚡ Turning real-world ideas into scalable products
 
 ---
 
 ## 🚀 What I'm Working On
 
-- 🔥 Full Stack MERN Applications  
-- ⚛️ Advanced React UI/UX  
-- 📱 Flutter Apps (Production Ready)  
-- 🤖 AI + IoT Integrated Systems  
+* 🔥 Full Stack MERN Applications
+* ⚛️ Advanced React UI/UX
+* 📱 Flutter Apps (Production Ready)
+* 🤖 AI + IoT Integrated Systems
+* 🐹 Learning and building backend services using Golang
 
 ---
 
 ## 💬 Ask Me About
 
-- MERN Stack Development  
-- React Architecture  
-- Flutter Development  
-- IoT Systems (Arduino / ESP32)  
-- Full Stack Project Building  
+* MERN Stack Development
+* React Architecture
+* Flutter Development
+* Golang Basics & Backend Concepts
+* IoT Systems (Arduino / ESP32)
+* Full Stack Project Building
 
 ---
 
 ## 💻 Tech Stack
 
-### 🚀 Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+### 🚀 Languages
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
 
-### 🌐 Web Development  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+### 🌐 Web Development
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge\&logo=mongodb)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
 
-### 📱 Mobile Development  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+### 📱 Mobile Development
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter)
 
-### ☁️ Backend & BaaS  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### ☁️ Backend & BaaS
 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 
-### 🔌 IoT  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+### 🔌 IoT
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino)
 ![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
 
+### ⚙️ Deployment
 
-### ⚙️ Deployment  
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge\&logo=netlify)
 
 ---
 
