@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Flutter Developer | IoT Engineer</h3>
 
 <p align="center">
-<i>"With great code comes great responsibility to build technologies."</i>
+<i>"Turning ideas into products"</i>
 </p>
 
 <p align="center">
