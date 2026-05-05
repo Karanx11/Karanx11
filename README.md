@@ -105,5 +105,5 @@
 ---
 
 <p align="center">
-⭐ From <a href="https://github.com/karanx11">karanx11</a>
+⭐ From <a href="https://github.com/karanx11">Karanx11</a>
 </p>
