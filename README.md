@@ -32,7 +32,6 @@
 * 💻 Full Stack Developer specializing in **MERN Stack**
 * 📱 Flutter Developer building cross-platform apps
 * 🔌 IoT Engineer working with **Arduino & ESP32**
-* 🐹 Basic knowledge of **Golang (Backend Development)**
 * 🚀 Passionate about **AI-powered applications**
 * ⚡ Turning real-world ideas into scalable products
 
@@ -44,7 +43,6 @@
 * ⚛️ Advanced React UI/UX
 * 📱 Flutter Apps (Production Ready)
 * 🤖 AI + IoT Integrated Systems
-* 🐹 Learning and building backend services using Golang
 
 ---
 
@@ -53,7 +51,6 @@
 * MERN Stack Development
 * React Architecture
 * Flutter Development
-* Golang Basics & Backend Concepts
 * IoT Systems (Arduino / ESP32)
 * Full Stack Project Building
 
@@ -65,7 +62,6 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
 
 ### 🌐 Web Development
 
