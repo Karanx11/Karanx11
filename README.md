@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Karan Sharma</h1>
-<h3 align="center">Full Stack Developer | Flutter Developer | IoT Engineer</h3>
+<h3 align="center">Full Stack Developer | Flutter Developer | IoT Enthusiast</h3>
 
 <p align="center">
-<i>"Turning ideas into products"</i>
+<i>Building scalable applications and turning ideas into real-world products.</i>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);Flutter+Mobile+Developer;IoT+Developer+(Arduino+%26+ESP32);Turning+Ideas+into+Real+World+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);Flutter+Mobile+Developer;IoT+Enthusiast+(Arduino+%26+ESP32);AI-Powered+Application+Developer;Turning+Ideas+into+Real+World+Products" />
 </p>
 
 ---
@@ -15,13 +15,13 @@
 
 <p align="center">
 <a href="https://karan-portfolio-x11.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/karan-s-290241298/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Karan%20Sharma-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Karan%20Sharma-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:karanx11.72898@gmail.com">
-<img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
@@ -30,10 +30,11 @@
 ## 💫 About Me
 
 * 💻 Full Stack Developer specializing in **MERN Stack**
-* 📱 Flutter Developer building cross-platform apps
-* 🔌 IoT Engineer working with **Arduino & ESP32**
-* 🚀 Passionate about **AI-powered applications**
-* ⚡ Turning real-world ideas into scalable products
+* 📱 Flutter Developer building cross-platform mobile applications
+* ⚛️ Passionate about modern **React applications**
+* 🔌 **IoT Enthusiast** exploring Arduino & ESP32
+* 🤖 Interested in **AI-powered applications**
+* 🚀 Turning real-world ideas into scalable products
 
 ---
 
@@ -41,8 +42,9 @@
 
 * 🔥 Full Stack MERN Applications
 * ⚛️ Advanced React UI/UX
-* 📱 Flutter Apps (Production Ready)
-* 🤖 AI + IoT Integrated Systems
+* 📱 Flutter Applications
+* 🤖 AI-Powered Applications
+* 🔌 IoT Projects using Arduino & ESP32
 
 ---
 
@@ -52,7 +54,8 @@
 * React Architecture
 * Flutter Development
 * IoT Systems (Arduino / ESP32)
-* Full Stack Project Building
+* Firebase & Supabase
+* Full Stack Project Development
 
 ---
 
@@ -60,43 +63,49 @@
 
 ### 🚀 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,dart" />
+</p>
 
 ### 🌐 Web Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge\&logo=mongodb)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,tailwind" />
+</p>
 
 ### 📱 Mobile Development
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter)
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+</p>
 
 ### ☁️ Backend & BaaS
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,supabase" />
+</p>
 
 ### 🔌 IoT
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino)
-![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
 
-### ⚙️ Deployment
+### ⚙️ Tools & Deployment
 
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge\&logo=netlify)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanx11&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=karanx11&theme=tokyonight&hide_border=true" height="180"/>
 </p>
+
+
 
 ---
 
