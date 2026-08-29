@@ -88,7 +88,7 @@
 ### 🔌 IoT
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
 ### ⚙️ Tools & Deployment
