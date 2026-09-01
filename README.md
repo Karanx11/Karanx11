@@ -64,7 +64,7 @@
 ### 🚀 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python,dart" />
+<img src="https://skillicons.dev/icons?i=java,js,dart" />
 </p>
 
 ### 🌐 Web Development
